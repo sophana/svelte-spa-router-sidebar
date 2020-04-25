@@ -9,6 +9,9 @@ It uses:
 - bootstrap
 - [startbootstrap simple sidebar](https://startbootstrap.com/previews/simple-sidebar/)
 
+Please visit [Demo](https://sophana.github.io/svelte-spa-router-sidebar/docs/)
+
+I've also made a [Purecss version](https://github.com/sophana/svelte-spa-router-purecss-sidebar)
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
